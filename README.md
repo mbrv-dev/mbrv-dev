@@ -58,15 +58,6 @@ More projects coming soon 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mbrv-dev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mbrv-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 My Goal
 
 > _"Become a great software engineer by continuously learning, building projects, and improving my problem-solving skills."_
